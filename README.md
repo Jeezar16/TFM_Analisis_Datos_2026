@@ -1,5 +1,6 @@
 # TFM: Riesgo de Fondeo BCR y Oligopolio Bancario
 **Autor:** Jeferson Arias Méndez
+
 **Año:** 2026
 
 Este repositorio contiene el pipeline automatizado de extracción, limpieza y modelado de datos macroeconómicos y crediticios de Costa Rica para el Trabajo Final de Máster.
