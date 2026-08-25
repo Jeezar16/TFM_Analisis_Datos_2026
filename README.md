@@ -20,7 +20,7 @@ En caso de que las APIs bancarias cambien su infraestructura de seguridad o bloq
 *   **Formato de descarga:** En Tableau, clic en `...` -> Exportar Datos -> Datos con diseño actual.
 
 ### 2. Banco Central de Costa Rica (BCCR)
-*   **Enlace directo:** [Indicadores Macroeconómicos (Cuadro 1016)](https://sdd.bccr.fi.cr/es/IndicadoresEconomicos/Inicio/Contenedor/969?Cuadro=1016)
+*   **Enlace directo:** [Indicadores Macroeconómicos](https://sdd.bccr.fi.cr/es/IndicadoresEconomicos/Inicio/Contenedor/969?Cuadro=1016)
 *   **Instrucciones para cURL:** Presionar `F12` (Network), hacer clic en el botón de descarga y copiar el evento `DescargueCsv` como *cURL (bash)* para inyectarlo en Colab.
 
 *Nota: Al ejecutarse el código en Colab para extraer los datos actuales en vivo, pedirá el token de GitHub, el cual será proporcionado directamente en un archivo .txt*
