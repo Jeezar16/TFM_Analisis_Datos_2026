@@ -6,7 +6,7 @@
 Este repositorio contiene el pipeline automatizado de extracción, limpieza y modelado de datos macroeconómicos y crediticios de Costa Rica para el Trabajo Final de Máster.
 
 ## Arquitectura del Proyecto
-- `notebooks/`: Contiene el código fuente en Google Colab con la lógica del ETL y Machine Learning. Además del file de Tableau.
+- `notebooks/`: Contiene el código fuente en Google Colab con la lógica del ETL y Machine Learning. Además del file de Tableau y el trabajo escrito.
 - `data/`: Datasets extraídos automáticamente del BCCR y la SUGEF, listos para ser consumidos por Tableau.
 
 ---
